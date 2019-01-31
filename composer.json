@@ -13,7 +13,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=7.0.0",
-        "lenius/basket": "~3.0"
+        "lenius/basket": "dev-master"
     },
     "autoload": {
         "psr-4": {
